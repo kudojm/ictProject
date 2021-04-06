@@ -14,4 +14,6 @@ public class Ex02 {
 		System.out.println("6" + Thread.currentThread().getName());
 		return res;
 	}
+	
+	int i = 1;
 }
